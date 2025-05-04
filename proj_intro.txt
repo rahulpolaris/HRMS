@@ -1,0 +1,2 @@
+this project is Human Resource Management System
+it uses go fiber and mongodb
